@@ -12,5 +12,7 @@ Any kind of feedback is much appreciated.
 ## Usage
 
 Download or clone DreamAI from the link provided above.
+
 Download the MS COCO dataset from http://cocodataset.org/#download and also install the COCO API.
+
 Download this notebook, make sure you set up the paths correctly, and things should go smoothly.
